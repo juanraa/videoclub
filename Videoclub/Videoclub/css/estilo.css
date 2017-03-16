@@ -1,0 +1,32 @@
+
+.resaltado
+{
+
+
+	color:red;
+}
+
+.titulo
+{
+
+	font-size: 50px;
+
+}
+p.resaltado
+{
+
+	text: justify;
+
+}
+
+h.resaltado
+{
+
+font:italic;
+
+}
+th
+{
+
+	text-align: center;
+}
